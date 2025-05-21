@@ -1,426 +1,426 @@
 linux-buildinfo-6.8.0-1017-qcom:
-  ubuntu:
-    jazzy: [linux-buildinfo-6.8.0-1017-qcom]
+	ubuntu:
+		noble: [linux-buildinfo-6.8.0-1017-qcom]
 linux-headers-6.8.0-1017-qcom:
-  ubuntu:
-    jazzy: [linux-headers-6.8.0-1017-qcom]
+	ubuntu:
+		noble: [linux-headers-6.8.0-1017-qcom]
 linux-headers-qcom:
-  ubuntu:
-    jazzy: [linux-headers-qcom]
+	ubuntu:
+		noble: [linux-headers-qcom]
 linux-image-qcom:
-  ubuntu:
-    jazzy: [linux-image-qcom]
+	ubuntu:
+		noble: [linux-image-qcom]
 linux-image-unsigned-6.8.0-1017-qcom:
-  ubuntu:
-    jazzy: [linux-image-unsigned-6.8.0-1017-qcom]
+	ubuntu:
+		noble: [linux-image-unsigned-6.8.0-1017-qcom]
 linux-libc-dev-qcom:
-  ubuntu:
-    jazzy: [linux-libc-dev-qcom]
+	ubuntu:
+		noble: [linux-libc-dev-qcom]
 linux-modules-6.8.0-1017-qcom:
-  ubuntu:
-    jazzy: [linux-modules-6.8.0-1017-qcom]
+	ubuntu:
+		noble: [linux-modules-6.8.0-1017-qcom]
 linux-modules-extra-6.8.0-1010-qcom:
-  ubuntu:
-    jazzy: [linux-modules-extra-6.8.0-1010-qcom]
+	ubuntu:
+		noble: [linux-modules-extra-6.8.0-1010-qcom]
 linux-modules-extra-qcom:
-  ubuntu:
-    jazzy: [linux-modules-extra-qcom]
+	ubuntu:
+		noble: [linux-modules-extra-qcom]
 linux-qcom-headers-6.8.0-1017:
-  ubuntu:
-    jazzy: [linux-qcom-headers-6.8.0-1017]
+	ubuntu:
+		noble: [linux-qcom-headers-6.8.0-1017]
 linux-qcom-tools-6.8.0-1017:
-  ubuntu:
-    jazzy: [linux-qcom-tools-6.8.0-1017]
+	ubuntu:
+		noble: [linux-qcom-tools-6.8.0-1017]
 linux-qcom-tools-common:
-  ubuntu:
-    jazzy: [linux-qcom-tools-common]
+	ubuntu:
+		noble: [linux-qcom-tools-common]
 linux-qcom:
-  ubuntu:
-    jazzy: [linux-qcom]
+	ubuntu:
+		noble: [linux-qcom]
 linux-source-6.8.0:
-  ubuntu:
-    jazzy: [linux-source-6.8.0]
+	ubuntu:
+		noble: [linux-source-6.8.0]
 linux-tools-6.8.0-1017-qcom:
-  ubuntu:
-    jazzy: [linux-tools-6.8.0-1017-qcom]
+	ubuntu:
+		noble: [linux-tools-6.8.0-1017-qcom]
 linux-tools-qcom:
-  ubuntu:
-    jazzy: [linux-tools-qcom]
+	ubuntu:
+		noble: [linux-tools-qcom]
 qcom-adreno-dev:
-  ubuntu:
-    jazzy: [qcom-adreno-dev]
+	ubuntu:
+		noble: [qcom-adreno-dev]
 qcom-adreno:
-  ubuntu:
-    jazzy: [qcom-adreno]
+	ubuntu:
+		noble: [qcom-adreno]
 libtinyalsa-dev:
-  ubuntu:
-    jazzy: [libtinyalsa-dev]
+	ubuntu:
+		noble: [libtinyalsa-dev]
 libtinyalsa2:
-  ubuntu:
-    jazzy: [libtinyalsa2]
+	ubuntu:
+		noble: [libtinyalsa2]
 libtinycompress-dev:
-  ubuntu:
-    jazzy: [libtinycompress-dev]
+	ubuntu:
+		noble: [libtinycompress-dev]
 libtinycompress0:
-  ubuntu:
-    jazzy: [libtinycompress0]
+	ubuntu:
+		noble: [libtinycompress0]
 qcom-acdbdata:
-  ubuntu:
-    jazzy: [qcom-acdbdata]
+	ubuntu:
+		noble: [qcom-acdbdata]
 qcom-agm-dev:
-  ubuntu:
-    jazzy: [qcom-agm-dev]
+	ubuntu:
+		noble: [qcom-agm-dev]
 qcom-agm-utils:
-  ubuntu:
-    jazzy: [qcom-agm-utils]
+	ubuntu:
+		noble: [qcom-agm-utils]
 qcom-agm:
-  ubuntu:
-    jazzy: [qcom-agm]
+	ubuntu:
+		noble: [qcom-agm]
 qcom-args-dev:
-  ubuntu:
-    jazzy: [qcom-args-dev]
+	ubuntu:
+		noble: [qcom-args-dev]
 qcom-args:
-  ubuntu:
-    jazzy: [qcom-args]
+	ubuntu:
+		noble: [qcom-args]
 qcom-audio-dac:
-  ubuntu:
-    jazzy: [qcom-audio-dac]
+	ubuntu:
+		noble: [qcom-audio-dac]
 qcom-audio-expander-dev:
-  ubuntu:
-    jazzy: [qcom-audio-expander-dev]
+	ubuntu:
+		noble: [qcom-audio-expander-dev]
 qcom-audio-expander:
-  ubuntu:
-    jazzy: [qcom-audio-expander]
+	ubuntu:
+		noble: [qcom-audio-expander]
 qcom-audio-mercury:
-  ubuntu:
-    jazzy: [qcom-audio-mercury]
+	ubuntu:
+		noble: [qcom-audio-mercury]
 qcom-audio-plugin-headers-dev:
-  ubuntu:
-    jazzy: [qcom-audio-plugin-headers-dev]
+	ubuntu:
+		noble: [qcom-audio-plugin-headers-dev]
 qcom-audio-systems:
-  ubuntu:
-    jazzy: [qcom-audio-systems]
+	ubuntu:
+		noble: [qcom-audio-systems]
 qcom-audiolisten-dev:
-  ubuntu:
-    jazzy: [qcom-audiolisten-dev]
+	ubuntu:
+		noble: [qcom-audiolisten-dev]
 qcom-audioroute-dev:
-  ubuntu:
-    jazzy: [qcom-audioroute-dev]
+	ubuntu:
+		noble: [qcom-audioroute-dev]
 qcom-audioroute:
-  ubuntu:
-    jazzy: [qcom-audioroute]
+	ubuntu:
+		noble: [qcom-audioroute]
 qcom-capiv2-dev:
-  ubuntu:
-    jazzy: [qcom-capiv2-dev]
+	ubuntu:
+		noble: [qcom-capiv2-dev]
 qcom-dac-mer-tools:
-  ubuntu:
-    jazzy: [qcom-dac-mer-tools]
+	ubuntu:
+		noble: [qcom-dac-mer-tools]
 qcom-dac-plugin:
-  ubuntu:
-    jazzy: [qcom-dac-plugin]
+	ubuntu:
+		noble: [qcom-dac-plugin]
 qcom-diag-router:
-  ubuntu:
-    jazzy: [qcom-diag-router]
+	ubuntu:
+		noble: [qcom-diag-router]
 qcom-diag:
-  ubuntu:
-    jazzy: [qcom-diag]
+	ubuntu:
+		noble: [qcom-diag]
 qcom-kvh2xml-dev:
-  ubuntu:
-    jazzy: [qcom-kvh2xml-dev]
+	ubuntu:
+		noble: [qcom-kvh2xml-dev]
 qcom-mercury-plugin:
-  ubuntu:
-    jazzy: [qcom-mercury-plugin]
+	ubuntu:
+		noble: [qcom-mercury-plugin]
 qcom-pal-headers-dev:
-  ubuntu:
-    jazzy: [qcom-pal-headers-dev]
+	ubuntu:
+		noble: [qcom-pal-headers-dev]
 qcom-pal-utils:
-  ubuntu:
-    jazzy: [qcom-pal-utils]
+	ubuntu:
+		noble: [qcom-pal-utils]
 qcom-pal:
-  ubuntu:
-    jazzy: [qcom-pal]
+	ubuntu:
+		noble: [qcom-pal]
 qcom-sva-eai-dev:
-  ubuntu:
-    jazzy: [qcom-sva-eai-dev]
+	ubuntu:
+		noble: [qcom-sva-eai-dev]
 qcom-sva-eai:
-  ubuntu:
-    jazzy: [qcom-sva-eai]
+	ubuntu:
+		noble: [qcom-sva-eai]
 qcom-vui-interface-dev:
-  ubuntu:
-    jazzy: [qcom-vui-interface-dev]
+	ubuntu:
+		noble: [qcom-vui-interface-dev]
 qcom-vui-interface-header-dev:
-  ubuntu:
-    jazzy: [qcom-vui-interface-header-dev]
+	ubuntu:
+		noble: [qcom-vui-interface-header-dev]
 qcom-vui-interface:
-  ubuntu:
-    jazzy: [qcom-vui-interface]
+	ubuntu:
+		noble: [qcom-vui-interface]
 qcom-audio-expander-dev:
-  ubuntu:
-    jazzy: [qcom-audio-expander-dev]
+	ubuntu:
+		noble: [qcom-audio-expander-dev]
 qcom-audio-expander:
-  ubuntu:
-    jazzy: [qcom-audio-expander]
+	ubuntu:
+		noble: [qcom-audio-expander]
 qcom-audio-expander-dev:
-  ubuntu:
-    jazzy: [qcom-audio-expander-dev]
+	ubuntu:
+		noble: [qcom-audio-expander-dev]
 qcom-audio-expander:
-  ubuntu:
-    jazzy: [qcom-audio-expander]
+	ubuntu:
+		noble: [qcom-audio-expander]
 qcom-audio-expander-dev:
-  ubuntu:
-    jazzy: [qcom-audio-expander-dev]
+	ubuntu:
+		noble: [qcom-audio-expander-dev]
 qcom-audio-expander:
-  ubuntu:
-    jazzy: [qcom-audio-expander]
+	ubuntu:
+		noble: [qcom-audio-expander]
 qcom-audio-plugin-headers-dev:
-  ubuntu:
-    jazzy: [qcom-audio-plugin-headers-dev]
+	ubuntu:
+		noble: [qcom-audio-plugin-headers-dev]
 qcom-audiolisten-dev:
-  ubuntu:
-    jazzy: [qcom-audiolisten-dev]
+	ubuntu:
+		noble: [qcom-audiolisten-dev]
 qcom-capiv2-dev:
-  ubuntu:
-    jazzy: [qcom-capiv2-dev]
+	ubuntu:
+		noble: [qcom-capiv2-dev]
 qcom-audiolisten-dev:
-  ubuntu:
-    jazzy: [qcom-audiolisten-dev]
+	ubuntu:
+		noble: [qcom-audiolisten-dev]
 qcom-capiv2-dev:
-  ubuntu:
-    jazzy: [qcom-capiv2-dev]
+	ubuntu:
+		noble: [qcom-capiv2-dev]
 qcom-camx-qcm6490-dev:
-  ubuntu:
-    jazzy: [qcom-camx-qcm6490-dev]
+	ubuntu:
+		noble: [qcom-camx-qcm6490-dev]
 qcom-camx-qcm6490:
-  ubuntu:
-    jazzy: [qcom-camx-qcm6490]
+	ubuntu:
+		noble: [qcom-camx-qcm6490]
 qcom-camxapi-kt-dev:
-  ubuntu:
-    jazzy: [qcom-camxapi-kt-dev]
+	ubuntu:
+		noble: [qcom-camxapi-kt-dev]
 qcom-camxapi-qcm6490-dev:
-  ubuntu:
-    jazzy: [qcom-camxapi-qcm6490-dev]
+	ubuntu:
+		noble: [qcom-camxapi-qcm6490-dev]
 qcom-camxlib-qcm6490-dev:
-  ubuntu:
-    jazzy: [qcom-camxlib-qcm6490-dev]
+	ubuntu:
+		noble: [qcom-camxlib-qcm6490-dev]
 qcom-camxlib-qcm6490:
-  ubuntu:
-    jazzy: [qcom-camxlib-qcm6490]
+	ubuntu:
+		noble: [qcom-camxlib-qcm6490]
 qcom-camxtest-qcm6490-dev:
-  ubuntu:
-    jazzy: [qcom-camxtest-qcm6490-dev]
+	ubuntu:
+		noble: [qcom-camxtest-qcm6490-dev]
 qcom-camxtest-qcm6490:
-  ubuntu:
-    jazzy: [qcom-camxtest-qcm6490]
+	ubuntu:
+		noble: [qcom-camxtest-qcm6490]
 qcom-audiolisten-dev:
-  ubuntu:
-    jazzy: [qcom-audiolisten-dev]
+	ubuntu:
+		noble: [qcom-audiolisten-dev]
 qcom-capiv2-dev:
-  ubuntu:
-    jazzy: [qcom-capiv2-dev]
+	ubuntu:
+		noble: [qcom-capiv2-dev]
 qcom-camxapi-kt-dev:
-  ubuntu:
-    jazzy: [qcom-camxapi-kt-dev]
+	ubuntu:
+		noble: [qcom-camxapi-kt-dev]
 qcom-chicdk-qcm6490-dev:
-  ubuntu:
-    jazzy: [qcom-chicdk-qcm6490-dev]
+	ubuntu:
+		noble: [qcom-chicdk-qcm6490-dev]
 qcom-chicdk-qcm6490:
-  ubuntu:
-    jazzy: [qcom-chicdk-qcm6490]
+	ubuntu:
+		noble: [qcom-chicdk-qcm6490]
 qcom-dac-mer-tools:
-  ubuntu:
-    jazzy: [qcom-dac-mer-tools]
+	ubuntu:
+		noble: [qcom-dac-mer-tools]
 qcom-audio-plugin-headers-dev:
-  ubuntu:
-    jazzy: [qcom-audio-plugin-headers-dev]
+	ubuntu:
+		noble: [qcom-audio-plugin-headers-dev]
 qcom-diag-router:
-  ubuntu:
-    jazzy: [qcom-diag-router]
+	ubuntu:
+		noble: [qcom-diag-router]
 qcom-diag:
-  ubuntu:
-    jazzy: [qcom-diag]
+	ubuntu:
+		noble: [qcom-diag]
 qcom-libdiag-dev:
-  ubuntu:
-    jazzy: [qcom-libdiag-dev]
+	ubuntu:
+		noble: [qcom-libdiag-dev]
 qcom-libdiag:
-  ubuntu:
-    jazzy: [qcom-libdiag]
+	ubuntu:
+		noble: [qcom-libdiag]
 qcom-dspservices-headers-dev:
-  ubuntu:
-    jazzy: [qcom-dspservices-headers-dev]
+	ubuntu:
+		noble: [qcom-dspservices-headers-dev]
 qcom-fastcv-binaries-dev:
-  ubuntu:
-    jazzy: [qcom-fastcv-binaries-dev]
+	ubuntu:
+		noble: [qcom-fastcv-binaries-dev]
 qcom-fastcv-binaries:
-  ubuntu:
-    jazzy: [qcom-fastcv-binaries]
+	ubuntu:
+		noble: [qcom-fastcv-binaries]
 qcom-libfastcv-binaries:
-  ubuntu:
-    jazzy: [qcom-libfastcv-binaries]
+	ubuntu:
+		noble: [qcom-libfastcv-binaries]
 qcom-libfastcv-dev:
-  ubuntu:
-    jazzy: [qcom-libfastcv-dev]
+	ubuntu:
+		noble: [qcom-libfastcv-dev]
 qcom-fastrpc-dev:
-  ubuntu:
-    jazzy: [qcom-fastrpc-dev]
+	ubuntu:
+		noble: [qcom-fastrpc-dev]
 qcom-fastrpc:
-  ubuntu:
-    jazzy: [qcom-fastrpc]
+	ubuntu:
+		noble: [qcom-fastrpc]
 qcom-kvh2xml-dev:
-  ubuntu:
-    jazzy: [qcom-kvh2xml-dev]
+	ubuntu:
+		noble: [qcom-kvh2xml-dev]
 qcom-libdmabufheap-dev:
-  ubuntu:
-    jazzy: [qcom-libdmabufheap-dev]
+	ubuntu:
+		noble: [qcom-libdmabufheap-dev]
 qcom-libdmabufheap:
-  ubuntu:
-    jazzy: [qcom-libdmabufheap]
+	ubuntu:
+		noble: [qcom-libdmabufheap]
 qcom-libvmmem-dev:
-  ubuntu:
-    jazzy: [qcom-libvmmem-dev]
+	ubuntu:
+		noble: [qcom-libvmmem-dev]
 qcom-libvmmem:
-  ubuntu:
-    jazzy: [qcom-libvmmem]
+	ubuntu:
+		noble: [qcom-libvmmem]
 qcom-libdmabufheap-dev:
-  ubuntu:
-    jazzy: [qcom-libdmabufheap-dev]
+	ubuntu:
+		noble: [qcom-libdmabufheap-dev]
 qcom-libdmabufheap:
-  ubuntu:
-    jazzy: [qcom-libdmabufheap]
+	ubuntu:
+		noble: [qcom-libdmabufheap]
 qcom-libvmmem-dev:
-  ubuntu:
-    jazzy: [qcom-libvmmem-dev]
+	ubuntu:
+		noble: [qcom-libvmmem-dev]
 qcom-libvmmem:
-  ubuntu:
-    jazzy: [qcom-libvmmem]
+	ubuntu:
+		noble: [qcom-libvmmem]
 qcom-audio-plugin-headers-dev:
-  ubuntu:
-    jazzy: [qcom-audio-plugin-headers-dev]
+	ubuntu:
+		noble: [qcom-audio-plugin-headers-dev]
 qcom-minkipc-dev:
-  ubuntu:
-    jazzy: [qcom-minkipc-dev]
+	ubuntu:
+		noble: [qcom-minkipc-dev]
 qcom-minkipc:
-  ubuntu:
-    jazzy: [qcom-minkipc]
+	ubuntu:
+		noble: [qcom-minkipc]
 qcom-pal-headers-dev:
-  ubuntu:
-    jazzy: [qcom-pal-headers-dev]
+	ubuntu:
+		noble: [qcom-pal-headers-dev]
 qcom-property-vault-dev:
-  ubuntu:
-    jazzy: [qcom-property-vault-dev]
+	ubuntu:
+		noble: [qcom-property-vault-dev]
 qcom-property-vault:
-  ubuntu:
-    jazzy: [qcom-property-vault]
+	ubuntu:
+		noble: [qcom-property-vault]
 qcom-syslog-plumber-dev:
-  ubuntu:
-    jazzy: [qcom-syslog-plumber-dev]
+	ubuntu:
+		noble: [qcom-syslog-plumber-dev]
 qcom-libqmi-framework-dev:
-  ubuntu:
-    jazzy: [qcom-libqmi-framework-dev]
+	ubuntu:
+		noble: [qcom-libqmi-framework-dev]
 qcom-libqmi-framework:
-  ubuntu:
-    jazzy: [qcom-libqmi-framework]
+	ubuntu:
+		noble: [qcom-libqmi-framework]
 qcom-qmi-framework-utils:
-  ubuntu:
-    jazzy: [qcom-qmi-framework-utils]
+	ubuntu:
+		noble: [qcom-qmi-framework-utils]
 qcom-libqrtr-dev:
-  ubuntu:
-    jazzy: [qcom-libqrtr-dev]
+	ubuntu:
+		noble: [qcom-libqrtr-dev]
 qcom-libqrtr:
-  ubuntu:
-    jazzy: [qcom-libqrtr]
+	ubuntu:
+		noble: [qcom-libqrtr]
 qcom-qrtr-tools:
-  ubuntu:
-    jazzy: [qcom-qrtr-tools]
+	ubuntu:
+		noble: [qcom-qrtr-tools]
 qcom-securemsm-features-dev:
-  ubuntu:
-    jazzy: [qcom-securemsm-features-dev]
+	ubuntu:
+		noble: [qcom-securemsm-features-dev]
 qcom-securemsm-features-utils:
-  ubuntu:
-    jazzy: [qcom-securemsm-features-utils]
+	ubuntu:
+		noble: [qcom-securemsm-features-utils]
 qcom-securemsm-features:
-  ubuntu:
-    jazzy: [qcom-securemsm-features]
+	ubuntu:
+		noble: [qcom-securemsm-features]
 qcom-securemsm-headers-dev:
-  ubuntu:
-    jazzy: [qcom-securemsm-headers-dev]
+	ubuntu:
+		noble: [qcom-securemsm-headers-dev]
 qcom-securemsm-utils:
-  ubuntu:
-    jazzy: [qcom-securemsm-utils]
+	ubuntu:
+		noble: [qcom-securemsm-utils]
 qcom-securemsm-dev:
-  ubuntu:
-    jazzy: [qcom-securemsm-dev]
+	ubuntu:
+		noble: [qcom-securemsm-dev]
 qcom-securemsm:
-  ubuntu:
-    jazzy: [qcom-securemsm]
+	ubuntu:
+		noble: [qcom-securemsm]
 qcom-sensing-hub-dev:
-  ubuntu:
-    jazzy: [qcom-sensing-hub-dev]
+	ubuntu:
+		noble: [qcom-sensing-hub-dev]
 qcom-sensing-hub:
-  ubuntu:
-    jazzy: [qcom-sensing-hub]
+	ubuntu:
+		noble: [qcom-sensing-hub]
 qcom-sensors-api-dev:
-  ubuntu:
-    jazzy: [qcom-sensors-api-dev]
+	ubuntu:
+		noble: [qcom-sensors-api-dev]
 qcom-sensors-api:
-  ubuntu:
-    jazzy: [qcom-sensors-api]
+	ubuntu:
+		noble: [qcom-sensors-api]
 qcom-sensors-core-dev:
-  ubuntu:
-    jazzy: [qcom-sensors-core-dev]
+	ubuntu:
+		noble: [qcom-sensors-core-dev]
 qcom-sensors-core:
-  ubuntu:
-    jazzy: [qcom-sensors-core]
+	ubuntu:
+		noble: [qcom-sensors-core]
 qcom-sensors-lookup-dev:
-  ubuntu:
-    jazzy: [qcom-sensors-lookup-dev]
+	ubuntu:
+		noble: [qcom-sensors-lookup-dev]
 qcom-sensors-lookup:
-  ubuntu:
-    jazzy: [qcom-sensors-lookup]
+	ubuntu:
+		noble: [qcom-sensors-lookup]
 qcom-sensors-registry-dev:
-  ubuntu:
-    jazzy: [qcom-sensors-registry-dev]
+	ubuntu:
+		noble: [qcom-sensors-registry-dev]
 qcom-sensors-registry:
-  ubuntu:
-    jazzy: [qcom-sensors-registry]
+	ubuntu:
+		noble: [qcom-sensors-registry]
 qcom-sensors-services-dev:
-  ubuntu:
-    jazzy: [qcom-sensors-services-dev]
+	ubuntu:
+		noble: [qcom-sensors-services-dev]
 qcom-sensors-services:
-  ubuntu:
-    jazzy: [qcom-sensors-services]
+	ubuntu:
+		noble: [qcom-sensors-services]
 qcom-sensors-test-core-dev:
-  ubuntu:
-    jazzy: [qcom-sensors-test-core-dev]
+	ubuntu:
+		noble: [qcom-sensors-test-core-dev]
 qcom-sensors-test-core:
-  ubuntu:
-    jazzy: [qcom-sensors-test-core]
+	ubuntu:
+		noble: [qcom-sensors-test-core]
 qcom-sensors-test-utils-dev:
-  ubuntu:
-    jazzy: [qcom-sensors-test-utils-dev]
+	ubuntu:
+		noble: [qcom-sensors-test-utils-dev]
 qcom-sensors-test-utils:
-  ubuntu:
-    jazzy: [qcom-sensors-test-utils]
+	ubuntu:
+		noble: [qcom-sensors-test-utils]
 qcom-sensors-utils-dev:
-  ubuntu:
-    jazzy: [qcom-sensors-utils-dev]
+	ubuntu:
+		noble: [qcom-sensors-utils-dev]
 qcom-sensors-utils:
-  ubuntu:
-    jazzy: [qcom-sensors-utils]
+	ubuntu:
+		noble: [qcom-sensors-utils]
 qcom-time-genoff-dev:
-  ubuntu:
-    jazzy: [qcom-time-genoff-dev]
+	ubuntu:
+		noble: [qcom-time-genoff-dev]
 qcom-time-genoff:
-  ubuntu:
-    jazzy: [qcom-time-genoff]
+	ubuntu:
+		noble: [qcom-time-genoff]
 qcom-time-services:
-  ubuntu:
-    jazzy: [qcom-time-services]
+	ubuntu:
+		noble: [qcom-time-services]
 qcom-vui-interface-header-dev:
-  ubuntu:
-    jazzy: [qcom-vui-interface-header-dev]
+	ubuntu:
+		noble: [qcom-vui-interface-header-dev]
 qcom-vui-interface-dev:
-  ubuntu:
-    jazzy: [qcom-vui-interface-dev]
+	ubuntu:
+		noble: [qcom-vui-interface-dev]
 qcom-vui-interface:
-  ubuntu:
-    jazzy: [qcom-vui-interface]
+	ubuntu:
+		noble: [qcom-vui-interface]
