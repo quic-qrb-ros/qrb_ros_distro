@@ -1,0 +1,621 @@
+firmware-qcm6490-msl:
+	ubuntu:
+		noble: [firmware-qcm6490-msl]
+firmware-qcs9100:
+	ubuntu:
+		noble: [firmware-qcs9100]
+libgbm-msm1-dev:
+	ubuntu:
+		noble: [libgbm-msm1-dev]
+libgbm-msm1:
+	ubuntu:
+		noble: [libgbm-msm1]
+linux-buildinfo-6.8.0-1012-qcom:
+	ubuntu:
+		noble: [linux-buildinfo-6.8.0-1012-qcom]
+linux-buildinfo-6.8.0-1017-qcom:
+	ubuntu:
+		noble: [linux-buildinfo-6.8.0-1017-qcom]
+linux-buildinfo-6.8.0-1035-qcom:
+	ubuntu:
+		noble: [linux-buildinfo-6.8.0-1035-qcom]
+linux-buildinfo-6.8.0-1037-qcom:
+	ubuntu:
+		noble: [linux-buildinfo-6.8.0-1037-qcom]
+linux-headers-6.8.0-1012-qcom:
+	ubuntu:
+		noble: [linux-headers-6.8.0-1012-qcom]
+linux-headers-6.8.0-1017-qcom:
+	ubuntu:
+		noble: [linux-headers-6.8.0-1017-qcom]
+linux-headers-6.8.0-1035-qcom:
+	ubuntu:
+		noble: [linux-headers-6.8.0-1035-qcom]
+linux-headers-6.8.0-1037-qcom:
+	ubuntu:
+		noble: [linux-headers-6.8.0-1037-qcom]
+linux-headers-qcom:
+	ubuntu:
+		noble: [linux-headers-qcom]
+linux-image-qcom:
+	ubuntu:
+		noble: [linux-image-qcom]
+linux-image-unsigned-6.8.0-1012-qcom:
+	ubuntu:
+		noble: [linux-image-unsigned-6.8.0-1012-qcom]
+linux-image-unsigned-6.8.0-1017-qcom:
+	ubuntu:
+		noble: [linux-image-unsigned-6.8.0-1017-qcom]
+linux-image-unsigned-6.8.0-1035-qcom:
+	ubuntu:
+		noble: [linux-image-unsigned-6.8.0-1035-qcom]
+linux-image-unsigned-6.8.0-1037-qcom:
+	ubuntu:
+		noble: [linux-image-unsigned-6.8.0-1037-qcom]
+linux-libc-dev-qcom:
+	ubuntu:
+		noble: [linux-libc-dev-qcom]
+linux-libc-dev-qcom:
+	ubuntu:
+		noble: [linux-libc-dev-qcom]
+linux-libc-dev-qcom:
+	ubuntu:
+		noble: [linux-libc-dev-qcom]
+linux-libc-dev-qcom:
+	ubuntu:
+		noble: [linux-libc-dev-qcom]
+linux-modules-6.8.0-1012-qcom:
+	ubuntu:
+		noble: [linux-modules-6.8.0-1012-qcom]
+linux-modules-6.8.0-1017-qcom:
+	ubuntu:
+		noble: [linux-modules-6.8.0-1017-qcom]
+linux-modules-6.8.0-1035-qcom:
+	ubuntu:
+		noble: [linux-modules-6.8.0-1035-qcom]
+linux-modules-6.8.0-1037-qcom:
+	ubuntu:
+		noble: [linux-modules-6.8.0-1037-qcom]
+linux-modules-extra-6.8.0-1010-qcom:
+	ubuntu:
+		noble: [linux-modules-extra-6.8.0-1010-qcom]
+linux-modules-extra-qcom:
+	ubuntu:
+		noble: [linux-modules-extra-qcom]
+linux-qcom-headers-6.8.0-1012:
+	ubuntu:
+		noble: [linux-qcom-headers-6.8.0-1012]
+linux-qcom-headers-6.8.0-1017:
+	ubuntu:
+		noble: [linux-qcom-headers-6.8.0-1017]
+linux-qcom-headers-6.8.0-1035:
+	ubuntu:
+		noble: [linux-qcom-headers-6.8.0-1035]
+linux-qcom-headers-6.8.0-1037:
+	ubuntu:
+		noble: [linux-qcom-headers-6.8.0-1037]
+linux-qcom-tools-6.8.0-1012:
+	ubuntu:
+		noble: [linux-qcom-tools-6.8.0-1012]
+linux-qcom-tools-6.8.0-1017:
+	ubuntu:
+		noble: [linux-qcom-tools-6.8.0-1017]
+linux-qcom-tools-6.8.0-1035:
+	ubuntu:
+		noble: [linux-qcom-tools-6.8.0-1035]
+linux-qcom-tools-6.8.0-1037:
+	ubuntu:
+		noble: [linux-qcom-tools-6.8.0-1037]
+linux-qcom-tools-common:
+	ubuntu:
+		noble: [linux-qcom-tools-common]
+linux-qcom-tools-common:
+	ubuntu:
+		noble: [linux-qcom-tools-common]
+linux-qcom:
+	ubuntu:
+		noble: [linux-qcom]
+linux-source-6.8.0:
+	ubuntu:
+		noble: [linux-source-6.8.0]
+linux-source-6.8.0:
+	ubuntu:
+		noble: [linux-source-6.8.0]
+linux-tools-6.8.0-1012-qcom:
+	ubuntu:
+		noble: [linux-tools-6.8.0-1012-qcom]
+linux-tools-6.8.0-1017-qcom:
+	ubuntu:
+		noble: [linux-tools-6.8.0-1017-qcom]
+linux-tools-6.8.0-1035-qcom:
+	ubuntu:
+		noble: [linux-tools-6.8.0-1035-qcom]
+linux-tools-6.8.0-1037-qcom:
+	ubuntu:
+		noble: [linux-tools-6.8.0-1037-qcom]
+linux-tools-qcom:
+	ubuntu:
+		noble: [linux-tools-qcom]
+qcom-adreno-cl-dev:
+	ubuntu:
+		noble: [qcom-adreno-cl-dev]
+qcom-adreno-cl1:
+	ubuntu:
+		noble: [qcom-adreno-cl1]
+qcom-adreno-dev:
+	ubuntu:
+		noble: [qcom-adreno-dev]
+qcom-adreno-dev:
+	ubuntu:
+		noble: [qcom-adreno-dev]
+qcom-adreno:
+	ubuntu:
+		noble: [qcom-adreno]
+qcom-adreno1:
+	ubuntu:
+		noble: [qcom-adreno1]
+libtinyalsa-dev:
+	ubuntu:
+		noble: [libtinyalsa-dev]
+libtinyalsa2:
+	ubuntu:
+		noble: [libtinyalsa2]
+libtinycompress-dev:
+	ubuntu:
+		noble: [libtinycompress-dev]
+libtinycompress0:
+	ubuntu:
+		noble: [libtinycompress0]
+qcom-acdbdata:
+	ubuntu:
+		noble: [qcom-acdbdata]
+qcom-agm-dev:
+	ubuntu:
+		noble: [qcom-agm-dev]
+qcom-agm-utils:
+	ubuntu:
+		noble: [qcom-agm-utils]
+qcom-agm:
+	ubuntu:
+		noble: [qcom-agm]
+qcom-args-dev:
+	ubuntu:
+		noble: [qcom-args-dev]
+qcom-args:
+	ubuntu:
+		noble: [qcom-args]
+qcom-audio-dac:
+	ubuntu:
+		noble: [qcom-audio-dac]
+qcom-audio-expander-dev:
+	ubuntu:
+		noble: [qcom-audio-expander-dev]
+qcom-audio-expander:
+	ubuntu:
+		noble: [qcom-audio-expander]
+qcom-audio-mercury:
+	ubuntu:
+		noble: [qcom-audio-mercury]
+qcom-audio-plugin-headers-dev:
+	ubuntu:
+		noble: [qcom-audio-plugin-headers-dev]
+qcom-audio-systems:
+	ubuntu:
+		noble: [qcom-audio-systems]
+qcom-audiolisten-dev:
+	ubuntu:
+		noble: [qcom-audiolisten-dev]
+qcom-audioroute-dev:
+	ubuntu:
+		noble: [qcom-audioroute-dev]
+qcom-audioroute:
+	ubuntu:
+		noble: [qcom-audioroute]
+qcom-capiv2-dev:
+	ubuntu:
+		noble: [qcom-capiv2-dev]
+qcom-dac-mer-tools:
+	ubuntu:
+		noble: [qcom-dac-mer-tools]
+qcom-dac-plugin:
+	ubuntu:
+		noble: [qcom-dac-plugin]
+qcom-diag-router:
+	ubuntu:
+		noble: [qcom-diag-router]
+qcom-diag:
+	ubuntu:
+		noble: [qcom-diag]
+qcom-kvh2xml-dev:
+	ubuntu:
+		noble: [qcom-kvh2xml-dev]
+qcom-mercury-plugin:
+	ubuntu:
+		noble: [qcom-mercury-plugin]
+qcom-pal-headers-dev:
+	ubuntu:
+		noble: [qcom-pal-headers-dev]
+qcom-pal-utils:
+	ubuntu:
+		noble: [qcom-pal-utils]
+qcom-pal:
+	ubuntu:
+		noble: [qcom-pal]
+qcom-sva-eai-dev:
+	ubuntu:
+		noble: [qcom-sva-eai-dev]
+qcom-sva-eai:
+	ubuntu:
+		noble: [qcom-sva-eai]
+qcom-vui-interface-dev:
+	ubuntu:
+		noble: [qcom-vui-interface-dev]
+qcom-vui-interface-header-dev:
+	ubuntu:
+		noble: [qcom-vui-interface-header-dev]
+qcom-vui-interface:
+	ubuntu:
+		noble: [qcom-vui-interface]
+qcom-audio-expander-dbgsym:
+	ubuntu:
+		noble: [qcom-audio-expander-dbgsym]
+qcom-audio-expander-dev:
+	ubuntu:
+		noble: [qcom-audio-expander-dev]
+qcom-audio-expander:
+	ubuntu:
+		noble: [qcom-audio-expander]
+qcom-audio-expander-dbgsym:
+	ubuntu:
+		noble: [qcom-audio-expander-dbgsym]
+qcom-audio-expander-dev:
+	ubuntu:
+		noble: [qcom-audio-expander-dev]
+qcom-audio-expander:
+	ubuntu:
+		noble: [qcom-audio-expander]
+qcom-audio-expander-dbgsym:
+	ubuntu:
+		noble: [qcom-audio-expander-dbgsym]
+qcom-audio-expander-dev:
+	ubuntu:
+		noble: [qcom-audio-expander-dev]
+qcom-audio-expander:
+	ubuntu:
+		noble: [qcom-audio-expander]
+qcom-audio-plugin-headers-dev:
+	ubuntu:
+		noble: [qcom-audio-plugin-headers-dev]
+qcom-audiolisten-dev:
+	ubuntu:
+		noble: [qcom-audiolisten-dev]
+qcom-capiv2-dev:
+	ubuntu:
+		noble: [qcom-capiv2-dev]
+qcom-audiolisten-dev:
+	ubuntu:
+		noble: [qcom-audiolisten-dev]
+qcom-capiv2-dev:
+	ubuntu:
+		noble: [qcom-capiv2-dev]
+qcom-camx-qcm6490-dev:
+	ubuntu:
+		noble: [qcom-camx-qcm6490-dev]
+qcom-camx-qcm6490:
+	ubuntu:
+		noble: [qcom-camx-qcm6490]
+qcom-camxapi-kt-dev:
+	ubuntu:
+		noble: [qcom-camxapi-kt-dev]
+qcom-camxapi-qcm6490-dev:
+	ubuntu:
+		noble: [qcom-camxapi-qcm6490-dev]
+qcom-camxlib-qcm6490-dev:
+	ubuntu:
+		noble: [qcom-camxlib-qcm6490-dev]
+qcom-camxlib-qcm6490:
+	ubuntu:
+		noble: [qcom-camxlib-qcm6490]
+qcom-camxtest-qcm6490-dev:
+	ubuntu:
+		noble: [qcom-camxtest-qcm6490-dev]
+qcom-camxtest-qcm6490:
+	ubuntu:
+		noble: [qcom-camxtest-qcm6490]
+qcom-audiolisten-dev:
+	ubuntu:
+		noble: [qcom-audiolisten-dev]
+qcom-capiv2-dev:
+	ubuntu:
+		noble: [qcom-capiv2-dev]
+qcom-camxapi-kt-dev:
+	ubuntu:
+		noble: [qcom-camxapi-kt-dev]
+qcom-chicdk-qcm6490-dev:
+	ubuntu:
+		noble: [qcom-chicdk-qcm6490-dev]
+qcom-chicdk-qcm6490:
+	ubuntu:
+		noble: [qcom-chicdk-qcm6490]
+qcom-dac-mer-tools-dbgsym:
+	ubuntu:
+		noble: [qcom-dac-mer-tools-dbgsym]
+qcom-dac-mer-tools:
+	ubuntu:
+		noble: [qcom-dac-mer-tools]
+qcom-audio-plugin-headers-dev:
+	ubuntu:
+		noble: [qcom-audio-plugin-headers-dev]
+qcom-diag-router-dbgsym:
+	ubuntu:
+		noble: [qcom-diag-router-dbgsym]
+qcom-diag-router:
+	ubuntu:
+		noble: [qcom-diag-router]
+qcom-diag-dbgsym:
+	ubuntu:
+		noble: [qcom-diag-dbgsym]
+qcom-diag:
+	ubuntu:
+		noble: [qcom-diag]
+qcom-libdiag-dev:
+	ubuntu:
+		noble: [qcom-libdiag-dev]
+qcom-libdiag:
+	ubuntu:
+		noble: [qcom-libdiag]
+qcom-dspservices-headers-dev:
+	ubuntu:
+		noble: [qcom-dspservices-headers-dev]
+qcom-fastcv-binaries-dbgsym:
+	ubuntu:
+		noble: [qcom-fastcv-binaries-dbgsym]
+qcom-fastcv-binaries-dev:
+	ubuntu:
+		noble: [qcom-fastcv-binaries-dev]
+qcom-fastcv-binaries:
+	ubuntu:
+		noble: [qcom-fastcv-binaries]
+qcom-libfastcv-binaries:
+	ubuntu:
+		noble: [qcom-libfastcv-binaries]
+qcom-libfastcv-dev:
+	ubuntu:
+		noble: [qcom-libfastcv-dev]
+qcom-fastrpc-dev:
+	ubuntu:
+		noble: [qcom-fastrpc-dev]
+qcom-fastrpc:
+	ubuntu:
+		noble: [qcom-fastrpc]
+qcom-kvh2xml-dev:
+	ubuntu:
+		noble: [qcom-kvh2xml-dev]
+qcom-libdmabufheap-dev:
+	ubuntu:
+		noble: [qcom-libdmabufheap-dev]
+qcom-libdmabufheap-dbgsym:
+	ubuntu:
+		noble: [qcom-libdmabufheap-dbgsym]
+qcom-libdmabufheap-dev:
+	ubuntu:
+		noble: [qcom-libdmabufheap-dev]
+qcom-libdmabufheap:
+	ubuntu:
+		noble: [qcom-libdmabufheap]
+qcom-libvmmem-dbgsym:
+	ubuntu:
+		noble: [qcom-libvmmem-dbgsym]
+qcom-libvmmem-dev:
+	ubuntu:
+		noble: [qcom-libvmmem-dev]
+qcom-libvmmem:
+	ubuntu:
+		noble: [qcom-libvmmem]
+qcom-libdmabufheap-dbgsym:
+	ubuntu:
+		noble: [qcom-libdmabufheap-dbgsym]
+qcom-libdmabufheap-dev:
+	ubuntu:
+		noble: [qcom-libdmabufheap-dev]
+qcom-libdmabufheap:
+	ubuntu:
+		noble: [qcom-libdmabufheap]
+qcom-libvmmem-dbgsym:
+	ubuntu:
+		noble: [qcom-libvmmem-dbgsym]
+qcom-libvmmem-dev:
+	ubuntu:
+		noble: [qcom-libvmmem-dev]
+qcom-libvmmem:
+	ubuntu:
+		noble: [qcom-libvmmem]
+qcom-audio-plugin-headers-dev:
+	ubuntu:
+		noble: [qcom-audio-plugin-headers-dev]
+qcom-minkipc-dbgsym:
+	ubuntu:
+		noble: [qcom-minkipc-dbgsym]
+qcom-minkipc-dev:
+	ubuntu:
+		noble: [qcom-minkipc-dev]
+qcom-minkipc:
+	ubuntu:
+		noble: [qcom-minkipc]
+qcom-pal-headers-dev:
+	ubuntu:
+		noble: [qcom-pal-headers-dev]
+qcom-property-vault-dev:
+	ubuntu:
+		noble: [qcom-property-vault-dev]
+qcom-property-vault-dbgsym:
+	ubuntu:
+		noble: [qcom-property-vault-dbgsym]
+qcom-property-vault-dev:
+	ubuntu:
+		noble: [qcom-property-vault-dev]
+qcom-property-vault:
+	ubuntu:
+		noble: [qcom-property-vault]
+qcom-syslog-plumber-dev:
+	ubuntu:
+		noble: [qcom-syslog-plumber-dev]
+qcom-libqmi-framework-dev:
+	ubuntu:
+		noble: [qcom-libqmi-framework-dev]
+qcom-libqmi-framework:
+	ubuntu:
+		noble: [qcom-libqmi-framework]
+qcom-qmi-framework-utils-dbgsym:
+	ubuntu:
+		noble: [qcom-qmi-framework-utils-dbgsym]
+qcom-qmi-framework-utils:
+	ubuntu:
+		noble: [qcom-qmi-framework-utils]
+qcom-libqrtr-dev:
+	ubuntu:
+		noble: [qcom-libqrtr-dev]
+qcom-libqrtr:
+	ubuntu:
+		noble: [qcom-libqrtr]
+qcom-qrtr-tools-dbgsym:
+	ubuntu:
+		noble: [qcom-qrtr-tools-dbgsym]
+qcom-qrtr-tools:
+	ubuntu:
+		noble: [qcom-qrtr-tools]
+qcom-securemsm-features-dbgsym:
+	ubuntu:
+		noble: [qcom-securemsm-features-dbgsym]
+qcom-securemsm-features-dev:
+	ubuntu:
+		noble: [qcom-securemsm-features-dev]
+qcom-securemsm-features-utils-dbgsym:
+	ubuntu:
+		noble: [qcom-securemsm-features-utils-dbgsym]
+qcom-securemsm-features-utils:
+	ubuntu:
+		noble: [qcom-securemsm-features-utils]
+qcom-securemsm-features:
+	ubuntu:
+		noble: [qcom-securemsm-features]
+qcom-securemsm-headers-dev:
+	ubuntu:
+		noble: [qcom-securemsm-headers-dev]
+qcom-securemsm-utils-dbgsym:
+	ubuntu:
+		noble: [qcom-securemsm-utils-dbgsym]
+qcom-securemsm-utils:
+	ubuntu:
+		noble: [qcom-securemsm-utils]
+qcom-securemsm-dbgsym:
+	ubuntu:
+		noble: [qcom-securemsm-dbgsym]
+qcom-securemsm-dev:
+	ubuntu:
+		noble: [qcom-securemsm-dev]
+qcom-securemsm:
+	ubuntu:
+		noble: [qcom-securemsm]
+qcom-sensing-hub-dbgsym:
+	ubuntu:
+		noble: [qcom-sensing-hub-dbgsym]
+qcom-sensing-hub-dev:
+	ubuntu:
+		noble: [qcom-sensing-hub-dev]
+qcom-sensing-hub:
+	ubuntu:
+		noble: [qcom-sensing-hub]
+qcom-sensors-api-dbgsym:
+	ubuntu:
+		noble: [qcom-sensors-api-dbgsym]
+qcom-sensors-api-dev:
+	ubuntu:
+		noble: [qcom-sensors-api-dev]
+qcom-sensors-api:
+	ubuntu:
+		noble: [qcom-sensors-api]
+qcom-sensors-core-dbgsym:
+	ubuntu:
+		noble: [qcom-sensors-core-dbgsym]
+qcom-sensors-core-dev:
+	ubuntu:
+		noble: [qcom-sensors-core-dev]
+qcom-sensors-core:
+	ubuntu:
+		noble: [qcom-sensors-core]
+qcom-sensors-lookup-dbgsym:
+	ubuntu:
+		noble: [qcom-sensors-lookup-dbgsym]
+qcom-sensors-lookup-dev:
+	ubuntu:
+		noble: [qcom-sensors-lookup-dev]
+qcom-sensors-lookup:
+	ubuntu:
+		noble: [qcom-sensors-lookup]
+qcom-sensors-registry-dev:
+	ubuntu:
+		noble: [qcom-sensors-registry-dev]
+qcom-sensors-registry:
+	ubuntu:
+		noble: [qcom-sensors-registry]
+qcom-sensors-services-dbgsym:
+	ubuntu:
+		noble: [qcom-sensors-services-dbgsym]
+qcom-sensors-services-dev:
+	ubuntu:
+		noble: [qcom-sensors-services-dev]
+qcom-sensors-services:
+	ubuntu:
+		noble: [qcom-sensors-services]
+qcom-sensors-test-core-dev:
+	ubuntu:
+		noble: [qcom-sensors-test-core-dev]
+qcom-sensors-test-core:
+	ubuntu:
+		noble: [qcom-sensors-test-core]
+qcom-sensors-test-utils-dev:
+	ubuntu:
+		noble: [qcom-sensors-test-utils-dev]
+qcom-sensors-test-utils:
+	ubuntu:
+		noble: [qcom-sensors-test-utils]
+qcom-sensors-utils-dbgsym:
+	ubuntu:
+		noble: [qcom-sensors-utils-dbgsym]
+qcom-sensors-utils-dev:
+	ubuntu:
+		noble: [qcom-sensors-utils-dev]
+qcom-sensors-utils:
+	ubuntu:
+		noble: [qcom-sensors-utils]
+qcom-syslog-plumber-dev:
+	ubuntu:
+		noble: [qcom-syslog-plumber-dev]
+qcom-time-genoff-dbgsym:
+	ubuntu:
+		noble: [qcom-time-genoff-dbgsym]
+qcom-time-genoff-dev:
+	ubuntu:
+		noble: [qcom-time-genoff-dev]
+qcom-time-genoff:
+	ubuntu:
+		noble: [qcom-time-genoff]
+qcom-time-services-dbgsym:
+	ubuntu:
+		noble: [qcom-time-services-dbgsym]
+qcom-time-services:
+	ubuntu:
+		noble: [qcom-time-services]
+qcom-vui-interface-header-dev:
+	ubuntu:
+		noble: [qcom-vui-interface-header-dev]
+qcom-vui-interface-dbgsym:
+	ubuntu:
+		noble: [qcom-vui-interface-dbgsym]
+qcom-vui-interface-dev:
+	ubuntu:
+		noble: [qcom-vui-interface-dev]
+qcom-vui-interface:
+	ubuntu:
+		noble: [qcom-vui-interface]

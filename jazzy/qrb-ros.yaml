@@ -1,0 +1,3 @@
+qrb-ros-transport-image-type:
+  ubuntu:
+    noble: [ros-jazzy-qrb-ros-transport-image-type]
